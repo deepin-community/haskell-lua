@@ -1,5 +1,17 @@
-template-repository (1.0-1) unstable; urgency=medium
+haskell-lua (2.1.0+ds1-2) unstable; urgency=medium
+
+  * Gratuitous post-NEW source upload.
+
+ -- Clint Adams <clint@debian.org>  Sun, 31 Jul 2022 13:09:13 -0400
+
+haskell-lua (2.1.0+ds1-1) unstable; urgency=medium
+
+  * Replace +dfsg1 with +ds1
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sat, 23 Jul 2022 13:50:46 +0300
+
+haskell-lua (2.1.0+dfsg1-1) unstable; urgency=low
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sat, 23 Jul 2022 13:31:30 +0300
